@@ -42,3 +42,7 @@ The “**Unadjusted Emissions**” view, provided by the data administrator, thi
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/99fd0d0b-14ad-4561-b825-cb8555c8dd9c)
 
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/a3b36b29-6487-44c9-b638-37d32cd27c4f)
+
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/aa6d52dd-efe1-4d7a-b7b5-3c94942d0157)
+
