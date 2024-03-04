@@ -28,6 +28,9 @@ The pipeline ensures that updates to the warehouse are reflected in the **lakeho
 
 We open a notebook environment and connect it to the **lakehouse**.
 This connection allows us to access the data and perform exploratory analysis using tools like **Spark SQL, R, or Python**.
+By following this approach, we aim to create an efficient and scalable solution for monitoring emissions data. 
+The “**Unadjusted Emissions**” view, provided by the data administrator, this is our starting point for analyses and actionable insights.
+
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/d3c4b350-850b-4ddc-877c-13784d0833e7)
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/054266d0-3ae7-4f92-b9c9-dcaa1d62d1ee)
@@ -40,5 +43,3 @@ This connection allows us to access the data and perform exploratory analysis us
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/99fd0d0b-14ad-4561-b825-cb8555c8dd9c)
 
-By following this approach, we aim to create an efficient and scalable solution for monitoring emissions data. 
-The “**Unadjusted Emissions**” view, provided by the data administrator, will be our starting point for insightful analyses and actionable insights.
