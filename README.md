@@ -35,9 +35,7 @@ This connection allows us to access the data and perform exploratory analysis us
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/bad36871-1d13-4ad3-83e8-dbba3a4374cb)
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/1c5e5170-cf9d-499e-ba87-94bd35bfe98e)
-
-![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/54a884da-44a1-4c51-aa75-3347e11118b1)
-
+ 
  ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/22dbf6ae-44f6-4ef1-ba72-5c7172682dd1)
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/99fd0d0b-14ad-4561-b825-cb8555c8dd9c)
