@@ -34,6 +34,12 @@ This connection allows us to access the data and perform exploratory analysis us
 
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/bad36871-1d13-4ad3-83e8-dbba3a4374cb)
 
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/1c5e5170-cf9d-499e-ba87-94bd35bfe98e)
+
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/54a884da-44a1-4c51-aa75-3347e11118b1)
+
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/efad1c73-6e0e-43da-a9a3-0fe15b6bd77f)
+
 
 By following this approach, we aim to create an efficient and scalable solution for monitoring emissions data. 
 The “**Unadjusted Emissions**” view, provided by the data administrator, will be our starting point for insightful analyses and actionable insights.
