@@ -23,6 +23,8 @@ To facilitate seamless data movement, we establish a pipeline connecting the dat
 The pipeline ensures that updates to the warehouse are reflected in the **lakehouse**.
 ![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/f56d4d00-f8d2-468b-8531-ab150d983356)
 
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/ed4031f0-45f8-4784-9b1c-397af8be83a7)
+
 **4- Notebook Integration**:
 
 We open a notebook environment and connect it to the **lakehouse**.
