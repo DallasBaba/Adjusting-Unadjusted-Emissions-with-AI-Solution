@@ -4,8 +4,7 @@ The dataset, named egrid2022_data, contains valuable information related to ener
 
 Our focus lies on a specific subset of this data, including the tables labeled as **UNT22, GEN22, PLNT22, and US22**. These tables serve as the foundation for creating a **view** named “**Unadjusted Emissions**”. 
 
-
-![3 - UnadjustedEmissions View](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/a6d19eb6-6e8c-41a8-9ab8-2fe157194099)
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/ba7d029e-d232-4d5d-b8d1-ad31af53b01b) 
 
 However, in real-world scenarios access to the main tables will be restricted by database administrators due to  sensitive information and government policies. The primary objective of this project is to establish a real-world scenarios with data engineering process for developing a Monitoring Tracker.   Here’s our step-by-step approach:
  
