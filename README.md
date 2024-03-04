@@ -22,6 +22,7 @@ We ensure that the data is properly transformed and organized for efficient quer
 
 To facilitate seamless data movement, we establish a pipeline connecting the data warehouse to a **lakehouse** (a hybrid storage system combining data lake and data warehouse features).
 The pipeline ensures that updates to the warehouse are reflected in the **lakehouse**.
+![image](https://github.com/DallasBaba/Adjusting-Unadjusted-Emissions-with-AI-Solution/assets/104704361/f56d4d00-f8d2-468b-8531-ab150d983356)
 
 **4- Notebook Integration**:
 
